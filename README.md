@@ -53,4 +53,12 @@ O estudo reforça que o investimento consistente pode ser uma alternativa realis
 ## 🛠️ Ferramentas utilizadas
 
 - NotebookLM para organização do estudo e referências  
-- Simu
+- Simulações financeiras baseadas em juros compostos  
+- Documentação e versionamento do projeto no GitHub  
+
+---
+
+## 👩‍💻 Autora
+
+Projeto desenvolvido por **Clau**, com foco em aprendizado prático, análise de dados financeiros e construção de portfólio para transição de carreira para a área de dados.
+
