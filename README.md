@@ -1,4 +1,6 @@
 📄 **Projeto em PDF:** [Clique aqui para abrir](projeto_notebookLM.pdf)
+📓 **Notebook da simulação (Python):** [simulacao_investimentos.ipynb](simulacao_investimentos.ipynb)
+
 
 # Como investir ganhando pouco no Brasil
 
