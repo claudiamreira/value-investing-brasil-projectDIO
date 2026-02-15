@@ -1,4 +1,4 @@
-📄 **Projeto em PDF:** [Clique aqui para abrir](projeto_notebooklm.pdf)
+📄 **Projeto em PDF:** [Clique aqui para abrir](file:///home/chronos/u-761f1600f4a656a81c629e7e97eb9c5a9f0aed85/MyFiles/Downloads/projeto_notebookLM.pdf)
 
 # Como investir ganhando pouco no Brasil 
 
