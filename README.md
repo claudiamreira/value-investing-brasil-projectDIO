@@ -1,4 +1,6 @@
-# Como investir ganhando pouco no Brasil
+📄 **Projeto em PDF:** [Clique aqui para abrir](projeto_notebooklm.pdf)
+
+# Como investir ganhando pouco no Brasil 
 
 ## 📌 Objetivo
 Este projeto tem como objetivo analisar, de forma simples e baseada em dados públicos disponíveis na internet, como uma pessoa com baixa renda mensal pode iniciar sua jornada de investimentos no Brasil.
